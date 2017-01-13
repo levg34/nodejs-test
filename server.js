@@ -1,5 +1,5 @@
 var http = require('http')
-	var url = require('url')
+var url = require('url')
 
 function start(route, handle) {
 	var port = 8888
@@ -13,8 +13,7 @@ function start(route, handle) {
 
 		request.addListener("data", function (postDataChunk) {
 			postData += postDataChunk
-			console.log("Received POST data chunk '" +
-				postDataChunk + "'.")
+			console.log("Received POST data chunk '"+postDataChunk + "'.")
 		})
 
 		request.addListener("end", function () {
