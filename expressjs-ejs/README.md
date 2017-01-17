@@ -5,4 +5,4 @@
 
 - ```node index.js```
 
-- connect to http://localhost
+- connect to [http://localhost](http://localhost)
