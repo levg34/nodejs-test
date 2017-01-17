@@ -1,0 +1,3 @@
+- http://expressjs.com/fr/
+- https://nodejs.org/api/http.html
+- https://openclassrooms.com/courses/des-applications-ultra-rapides-avec-node-js

@@ -1,0 +1,26 @@
+{
+  "name": "chat-test",
+  "version": "1.0.0",
+  "description": "test to make a chat",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/levg34/nodejs-test.git"
+  },
+  "keywords": [
+    "chat"
+  ],
+  "author": "levg34",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/levg34/nodejs-test/issues"
+  },
+  "homepage": "https://github.com/levg34/nodejs-test#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "socket.io": "^1.7.2"
+  }
+}

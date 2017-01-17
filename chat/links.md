@@ -1,0 +1,2 @@
+- https://github.com/andrerpena/chatjs
+- https://openclassrooms.com/courses/des-applications-ultra-rapides-avec-node-js
